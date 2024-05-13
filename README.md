@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Gabriel
 - 👀 I’m interested in Web Development specially Frontend Development as React Developer
-- 🌱 I’m currently learning React and Next js
-- 💞️ I’m looking to collaborate on frontend web development projects
+- 📚 I’m currently learning React and Next js
+- 🤝 I’m looking to collaborate on frontend web development projects
