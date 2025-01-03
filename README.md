@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Gabriel
-- 👀 I’m interested in Web Development specially Frontend Development as React Developer
-- 📚 I’m currently learning React and Next js
+- 👀 I’m interested in Web Development specially Frontend Development as React and Nuxt Developer
+- 📚 I’m always learning and upgrading my skills and knowledge to leverage them in my projects
 - 🤝 I’m looking to collaborate on frontend web development projects
